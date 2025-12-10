@@ -1,0 +1,1 @@
+tcc main.c resource.res -o extract_tool.exe -lshell32 -lcomdlg32>log.txt 2>&1
